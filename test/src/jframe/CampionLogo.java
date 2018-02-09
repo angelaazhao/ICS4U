@@ -9,6 +9,7 @@ import java.awt.geom.*;
  * @author Angela
  * This program uses the methods and classes learned in class to create a 
  * program that draws the St. Edmund Campion
+ * New Change
  */
 public class CampionLogo extends javax.swing.JFrame {
 
